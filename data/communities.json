@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-10-26T07:36:21Z",
+  "checked_at": "2026-10-26T07:39:32Z",
   "sources": [
     "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
     "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
@@ -33,7 +33,7 @@
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/vakansiit",
       "tgden_url": "https://tgden.com/en/chat/vakansiit?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "moskva_vakhta_udalennaya_rf",
@@ -44,7 +44,7 @@
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/moskva_vakhta_udalennaya_rf",
       "tgden_url": "https://tgden.com/en/chat/moskva_vakhta_udalennaya_rf?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "vakhta_rossia_rf",
@@ -55,18 +55,18 @@
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/vakhta_rossia_rf",
       "tgden_url": "https://tgden.com/en/chat/vakhta_rossia_rf?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "frilancru",
       "title": "ФРИЛАНС ЧАТ | ФРИЛАНС БИРЖА",
-      "members_count": 55228,
+      "members_count": 55229,
       "country": "ru",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/frilancru",
       "tgden_url": "https://tgden.com/en/chat/frilancru?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "working2021st",
@@ -77,7 +77,7 @@
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/working2021st",
       "tgden_url": "https://tgden.com/en/chat/working2021st?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "rueventjob4at",
@@ -88,7 +88,7 @@
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/rueventjob4at",
       "tgden_url": "https://tgden.com/en/chat/rueventjob4at?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "jobospherechat",
@@ -99,18 +99,18 @@
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/jobospherechat",
       "tgden_url": "https://tgden.com/en/chat/jobospherechat?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "workk_onchat",
       "title": "WORK ON | ФРИЛАНС ЧАТ",
-      "members_count": 39062,
+      "members_count": 39063,
       "country": "ru",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/workk_onchat",
       "tgden_url": "https://tgden.com/en/chat/workk_onchat?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "biznes_klient_rabota",
@@ -121,7 +121,7 @@
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/biznes_klient_rabota",
       "tgden_url": "https://tgden.com/en/chat/biznes_klient_rabota?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "workirestaurants",
@@ -132,7 +132,7 @@
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/workirestaurants",
       "tgden_url": "https://tgden.com/en/chat/workirestaurants?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "rabotat_rf_vakhta_vakhtoviki",
@@ -143,29 +143,29 @@
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/rabotat_rf_vakhta_vakhtoviki",
       "tgden_url": "https://tgden.com/en/chat/rabotat_rf_vakhta_vakhtoviki?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "freelance_chatik0",
       "title": "Фриланс чат | Вакансии",
-      "members_count": 31866,
+      "members_count": 31869,
       "country": "ru",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/freelance_chatik0",
       "tgden_url": "https://tgden.com/en/chat/freelance_chatik0?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "turkiyada_vakansiya",
       "title": "Turkiyada ishlar 🇺🇿🇹🇷",
-      "members_count": 58611,
+      "members_count": 58618,
       "country": "tr",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/turkiyada_vakansiya",
       "tgden_url": "https://tgden.com/en/chat/turkiyada_vakansiya?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "turkiyau",
@@ -176,7 +176,7 @@
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/turkiyau",
       "tgden_url": "https://tgden.com/en/chat/turkiyau?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "istanbul_ish_ishonchli",
@@ -187,7 +187,7 @@
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/istanbul_ish_ishonchli",
       "tgden_url": "https://tgden.com/en/chat/istanbul_ish_ishonchli?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "rabota_v_tursii",
@@ -198,7 +198,7 @@
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/rabota_v_tursii",
       "tgden_url": "https://tgden.com/en/chat/rabota_v_tursii?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "turkiyejobs07100",
@@ -209,7 +209,7 @@
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/turkiyejobs07100",
       "tgden_url": "https://tgden.com/en/chat/turkiyejobs07100?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "ishborturkiya",
@@ -220,7 +220,7 @@
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/ishborturkiya",
       "tgden_url": "https://tgden.com/en/chat/ishborturkiya?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "rabota_inturkey",
@@ -231,7 +231,7 @@
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/rabota_inturkey",
       "tgden_url": "https://tgden.com/en/chat/rabota_inturkey?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "job_in_tr",
@@ -242,7 +242,7 @@
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/job_in_tr",
       "tgden_url": "https://tgden.com/en/chat/job_in_tr?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "turkworks",
@@ -253,7 +253,7 @@
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/turkworks",
       "tgden_url": "https://tgden.com/en/chat/turkworks?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "tyrciya_rabota",
@@ -264,7 +264,7 @@
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/tyrciya_rabota",
       "tgden_url": "https://tgden.com/en/chat/tyrciya_rabota?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "turkiya_ish_elonlari_tr",
@@ -275,7 +275,7 @@
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/turkiya_ish_elonlari_tr",
       "tgden_url": "https://tgden.com/en/chat/turkiya_ish_elonlari_tr?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "sansantaly20",
@@ -286,7 +286,7 @@
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/sansantaly20",
       "tgden_url": "https://tgden.com/en/chat/sansantaly20?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "ingliz_testi",
@@ -297,7 +297,7 @@
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/ingliz_testi",
       "tgden_url": "https://tgden.com/en/chat/ingliz_testi?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "ingliz_tili6",
@@ -308,7 +308,7 @@
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/ingliz_tili6",
       "tgden_url": "https://tgden.com/en/chat/ingliz_tili6?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "ingliztestlarr",
@@ -319,7 +319,7 @@
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/ingliztestlarr",
       "tgden_url": "https://tgden.com/en/chat/ingliztestlarr?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "ingliz_tilidan_quiz",
@@ -330,7 +330,7 @@
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/ingliz_tilidan_quiz",
       "tgden_url": "https://tgden.com/en/chat/ingliz_tilidan_quiz?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "repetitori_uroki_studenti",
@@ -341,7 +341,7 @@
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/repetitori_uroki_studenti",
       "tgden_url": "https://tgden.com/en/chat/repetitori_uroki_studenti?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "english_zone_quiz",
@@ -352,7 +352,7 @@
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/english_zone_quiz",
       "tgden_url": "https://tgden.com/en/chat/english_zone_quiz?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "quiz_testlar_guruhi_n1",
@@ -363,7 +363,7 @@
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/quiz_testlar_guruhi_n1",
       "tgden_url": "https://tgden.com/en/chat/quiz_testlar_guruhi_n1?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "rustilic1_c2_b1_b2_test",
@@ -374,7 +374,7 @@
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/rustilic1_c2_b1_b2_test",
       "tgden_url": "https://tgden.com/en/chat/rustilic1_c2_b1_b2_test?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "ibratli_study_maths",
@@ -385,7 +385,7 @@
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/ibratli_study_maths",
       "tgden_url": "https://tgden.com/en/chat/ibratli_study_maths?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "username": "ingliztilidantestlar",
@@ -396,7 +396,7 @@
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/ingliztilidantestlar",
       "tgden_url": "https://tgden.com/en/chat/ingliztilidantestlar?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     }
   ]
 }

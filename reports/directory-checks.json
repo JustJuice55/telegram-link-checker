@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "update_status": "complete",
-  "checked_at": "2026-10-26T07:36:21Z",
+  "checked_at": "2026-10-26T07:39:32Z",
   "sources": [
     "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
     "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
@@ -18,7 +18,7 @@
       "evidence": "tgme_page_extra contains: 585 261 members",
       "http_status": 200,
       "url": "https://t.me/vakansiit",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -27,7 +27,7 @@
       "evidence": "tgme_page_extra contains: 472 637 members",
       "http_status": 200,
       "url": "https://t.me/moskva_vakhta_udalennaya_rf",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -36,16 +36,16 @@
       "evidence": "tgme_page_extra contains: 132 223 members",
       "http_status": 200,
       "url": "https://t.me/vakhta_rossia_rf",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
       "title": "ФРИЛАНС ЧАТ | ФРИЛАНС БИРЖА",
-      "members_count": 55228,
-      "evidence": "tgme_page_extra contains: 55 228 members",
+      "members_count": 55229,
+      "evidence": "tgme_page_extra contains: 55 229 members",
       "http_status": 200,
       "url": "https://t.me/frilancru",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -54,7 +54,7 @@
       "evidence": "tgme_page_extra contains: 47 021 members",
       "http_status": 200,
       "url": "https://t.me/working2021st",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -63,7 +63,7 @@
       "evidence": "tgme_page_extra contains: 45 570 members",
       "http_status": 200,
       "url": "https://t.me/rueventjob4at",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -72,16 +72,16 @@
       "evidence": "tgme_page_extra contains: 50 448 members",
       "http_status": 200,
       "url": "https://t.me/jobospherechat",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
       "title": "WORK ON | ФРИЛАНС ЧАТ",
-      "members_count": 39062,
-      "evidence": "tgme_page_extra contains: 39 062 members",
+      "members_count": 39063,
+      "evidence": "tgme_page_extra contains: 39 063 members",
       "http_status": 200,
       "url": "https://t.me/workk_onchat",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -90,7 +90,7 @@
       "evidence": "tgme_page_extra contains: 41 184 members",
       "http_status": 200,
       "url": "https://t.me/biznes_klient_rabota",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -99,7 +99,7 @@
       "evidence": "tgme_page_extra contains: 45 008 members",
       "http_status": 200,
       "url": "https://t.me/workirestaurants",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -108,25 +108,25 @@
       "evidence": "tgme_page_extra contains: 33 274 members",
       "http_status": 200,
       "url": "https://t.me/rabotat_rf_vakhta_vakhtoviki",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
       "title": "Фриланс чат | Вакансии",
-      "members_count": 31866,
-      "evidence": "tgme_page_extra contains: 31 866 members",
+      "members_count": 31869,
+      "evidence": "tgme_page_extra contains: 31 869 members",
       "http_status": 200,
       "url": "https://t.me/freelance_chatik0",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
       "title": "Turkiyada ishlar 🇺🇿🇹🇷",
-      "members_count": 58611,
-      "evidence": "tgme_page_extra contains: 58 611 members",
+      "members_count": 58618,
+      "evidence": "tgme_page_extra contains: 58 618 members",
       "http_status": 200,
       "url": "https://t.me/turkiyada_vakansiya",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -135,7 +135,7 @@
       "evidence": "tgme_page_extra contains: 21 251 members",
       "http_status": 200,
       "url": "https://t.me/turkiyau",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -144,7 +144,7 @@
       "evidence": "tgme_page_extra contains: 2 847 members",
       "http_status": 200,
       "url": "https://t.me/istanbul_ish_ishonchli",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -153,7 +153,7 @@
       "evidence": "tgme_page_extra contains: 1 211 members",
       "http_status": 200,
       "url": "https://t.me/rabota_v_tursii",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -162,7 +162,7 @@
       "evidence": "tgme_page_extra contains: 521 members",
       "http_status": 200,
       "url": "https://t.me/turkiyejobs07100",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -171,7 +171,7 @@
       "evidence": "tgme_page_extra contains: 1 256 members",
       "http_status": 200,
       "url": "https://t.me/ishborturkiya",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -180,7 +180,7 @@
       "evidence": "tgme_page_extra contains: 6 624 members",
       "http_status": 200,
       "url": "https://t.me/rabota_inturkey",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -189,7 +189,7 @@
       "evidence": "tgme_page_extra contains: 5 120 members",
       "http_status": 200,
       "url": "https://t.me/job_in_tr",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -198,7 +198,7 @@
       "evidence": "tgme_page_extra contains: 5 597 members",
       "http_status": 200,
       "url": "https://t.me/turkworks",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -207,7 +207,7 @@
       "evidence": "tgme_page_extra contains: 3 345 members",
       "http_status": 200,
       "url": "https://t.me/tyrciya_rabota",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -216,7 +216,7 @@
       "evidence": "tgme_page_extra contains: 3 517 members",
       "http_status": 200,
       "url": "https://t.me/turkiya_ish_elonlari_tr",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -225,7 +225,7 @@
       "evidence": "tgme_page_extra contains: 2 751 members",
       "http_status": 200,
       "url": "https://t.me/sansantaly20",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -234,7 +234,7 @@
       "evidence": "tgme_page_extra contains: 26 671 members",
       "http_status": 200,
       "url": "https://t.me/ingliz_testi",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -243,7 +243,7 @@
       "evidence": "tgme_page_extra contains: 21 671 members",
       "http_status": 200,
       "url": "https://t.me/ingliz_tili6",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -252,7 +252,7 @@
       "evidence": "tgme_page_extra contains: 48 789 members",
       "http_status": 200,
       "url": "https://t.me/ingliztestlarr",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -261,7 +261,7 @@
       "evidence": "tgme_page_extra contains: 26 620 members",
       "http_status": 200,
       "url": "https://t.me/ingliz_tilidan_quiz",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "contact_only",
@@ -270,7 +270,7 @@
       "evidence": "Generic Telegram contact prompt observed; community membership evidence absent.",
       "http_status": 200,
       "url": "https://t.me/ingliztilidantestlar3",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -279,7 +279,7 @@
       "evidence": "tgme_page_extra contains: 12 951 members",
       "http_status": 200,
       "url": "https://t.me/repetitori_uroki_studenti",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -288,7 +288,7 @@
       "evidence": "tgme_page_extra contains: 2 427 members",
       "http_status": 200,
       "url": "https://t.me/english_zone_quiz",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -297,7 +297,7 @@
       "evidence": "tgme_page_extra contains: 1 098 members",
       "http_status": 200,
       "url": "https://t.me/quiz_testlar_guruhi_n1",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -306,7 +306,7 @@
       "evidence": "tgme_page_extra contains: 757 members",
       "http_status": 200,
       "url": "https://t.me/rustilic1_c2_b1_b2_test",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -315,7 +315,7 @@
       "evidence": "tgme_page_extra contains: 515 members",
       "http_status": 200,
       "url": "https://t.me/ibratli_study_maths",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "contact_only",
@@ -324,7 +324,7 @@
       "evidence": "Generic Telegram contact prompt observed; community membership evidence absent.",
       "http_status": 200,
       "url": "https://t.me/ingilis_ingliz",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     },
     {
       "status": "community_preview",
@@ -333,7 +333,7 @@
       "evidence": "tgme_page_extra contains: 3 137 subscribers",
       "http_status": 200,
       "url": "https://t.me/ingliztilidantestlar",
-      "checked_at": "2026-10-26T07:36:21Z"
+      "checked_at": "2026-10-26T07:39:32Z"
     }
   ]
 }

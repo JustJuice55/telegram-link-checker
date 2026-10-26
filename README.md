@@ -16,7 +16,7 @@ The first release covers jobs in Russia and Turkey, and education in Uzbekistan.
 
 ### Public community preview directory
 
-Checked: **2026-10-26T07:36:21Z** (UTC). 34 listed communities from 36 distinct candidates.
+Checked: **2026-10-26T07:39:32Z** (UTC). 34 listed communities from 36 distinct candidates.
 Checks: community_preview=34, contact_only=2, bot_preview=0, inconclusive=0.
 
 Only previews with member/subscriber evidence are listed. A fresh public preview is not an endorsement or verification of activity, safety, or geography.
@@ -29,21 +29,21 @@ Country and topic labels are TGDen's existing source filters. Counts below come 
 | РАБОТА ВАХТА МОСКВА СПБ | 585,261 | [@vakansiit](https://t.me/vakansiit) · [TGDen card](https://tgden.com/en/chat/vakansiit?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 | РАБОТА \| ВАКАНСИИ | 472,637 | [@moskva_vakhta_udalennaya_rf](https://t.me/moskva_vakhta_udalennaya_rf) · [TGDen card](https://tgden.com/en/chat/moskva_vakhta_udalennaya_rf?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 | Работа Вакансии ВАХТОЙ | 132,223 | [@vakhta_rossia_rf](https://t.me/vakhta_rossia_rf) · [TGDen card](https://tgden.com/en/chat/vakhta_rossia_rf?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| ФРИЛАНС ЧАТ \| ФРИЛАНС БИРЖА | 55,228 | [@frilancru](https://t.me/frilancru) · [TGDen card](https://tgden.com/en/chat/frilancru?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| ФРИЛАНС ЧАТ \| ФРИЛАНС БИРЖА | 55,229 | [@frilancru](https://t.me/frilancru) · [TGDen card](https://tgden.com/en/chat/frilancru?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 | Работа в строительстве Москва и область , объявления\!\. | 47,021 | [@working2021st](https://t.me/working2021st) · [TGDen card](https://tgden.com/en/chat/working2021st?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 | Я творю на фрилансе | 45,570 | [@rueventjob4at](https://t.me/rueventjob4at) · [TGDen card](https://tgden.com/en/chat/rueventjob4at?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 | JOBOSPHERE \| ФРИЛАНС ЧАТ | 50,448 | [@jobospherechat](https://t.me/jobospherechat) · [TGDen card](https://tgden.com/en/chat/jobospherechat?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| WORK ON \| ФРИЛАНС ЧАТ | 39,062 | [@workk_onchat](https://t.me/workk_onchat) · [TGDen card](https://tgden.com/en/chat/workk_onchat?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| WORK ON \| ФРИЛАНС ЧАТ | 39,063 | [@workk_onchat](https://t.me/workk_onchat) · [TGDen card](https://tgden.com/en/chat/workk_onchat?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 | БИЗНЕС \| КЛИЕНТЫ \| РАБОТА | 41,184 | [@biznes_klient_rabota](https://t.me/biznes_klient_rabota) · [TGDen card](https://tgden.com/en/chat/biznes_klient_rabota?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 | WORKI \| Работа в общепите | 45,008 | [@workirestaurants](https://t.me/workirestaurants) · [TGDen card](https://tgden.com/en/chat/workirestaurants?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 | 📣Вакансии ВАХТОЙ | 33,274 | [@rabotat_rf_vakhta_vakhtoviki](https://t.me/rabotat_rf_vakhta_vakhtoviki) · [TGDen card](https://tgden.com/en/chat/rabotat_rf_vakhta_vakhtoviki?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Фриланс чат \| Вакансии | 31,866 | [@freelance_chatik0](https://t.me/freelance_chatik0) · [TGDen card](https://tgden.com/en/chat/freelance_chatik0?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Фриланс чат \| Вакансии | 31,869 | [@freelance_chatik0](https://t.me/freelance_chatik0) · [TGDen card](https://tgden.com/en/chat/freelance_chatik0?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 
 #### Turkey · Jobs (12)
 
 | Community | Preview count | Public links |
 | --- | ---: | --- |
-| Turkiyada ishlar 🇺🇿🇹🇷 | 58,611 | [@turkiyada_vakansiya](https://t.me/turkiyada_vakansiya) · [TGDen card](https://tgden.com/en/chat/turkiyada_vakansiya?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Turkiyada ishlar 🇺🇿🇹🇷 | 58,618 | [@turkiyada_vakansiya](https://t.me/turkiyada_vakansiya) · [TGDen card](https://tgden.com/en/chat/turkiyada_vakansiya?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 | Turkiyada Ishlar \| O&\#x27;zbeklar uchun | 21,251 | [@turkiyau](https://t.me/turkiyau) · [TGDen card](https://tgden.com/en/chat/turkiyau?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 | TURKIYA\_ISHONCHLI\_ISH Истанбул иш Вакансии в Турции | 2,847 | [@istanbul_ish_ishonchli](https://t.me/istanbul_ish_ishonchli) · [TGDen card](https://tgden.com/en/chat/istanbul_ish_ishonchli?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 | Работа в Турции | 1,211 | [@rabota_v_tursii](https://t.me/rabota_v_tursii) · [TGDen card](https://tgden.com/en/chat/rabota_v_tursii?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
