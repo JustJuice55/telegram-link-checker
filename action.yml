@@ -1,0 +1,38 @@
+name: Telegram public link checker
+description: Check public Telegram previews from a local Markdown file, with bounded unauthenticated requests.
+author: JustJuice55
+branding:
+  icon: link
+  color: blue
+inputs:
+  file:
+    description: Local Markdown file relative to the caller workspace (maximum 2 MiB and 200 public usernames).
+    required: true
+  fail-on-contact:
+    description: Exit 1 when a generic contact-only preview is observed. Inconclusive checks always exit 3.
+    required: false
+    default: 'false'
+runs:
+  using: composite
+  steps:
+    - name: Check public Telegram previews
+      shell: bash
+      env:
+        CHECKER_ACTION_PATH: ${{ github.action_path }}
+        CHECKER_INPUT_FILE: ${{ inputs.file }}
+        CHECKER_FAIL_CONTACT: ${{ inputs.fail-on-contact }}
+      run: |
+        set -euo pipefail
+        report_dir="$(mktemp -d "$RUNNER_TEMP/telegram-link-checker.XXXXXX")"
+        set +e
+        timeout 5m python3 "$CHECKER_ACTION_PATH/scripts/action_check.py" \
+          --json "$report_dir/report.json" --markdown "$report_dir/report.md"
+        result=$?
+        set -e
+        if [[ -f "$report_dir/report.md" ]]; then
+          cat "$report_dir/report.md" >> "$GITHUB_STEP_SUMMARY"
+        else
+          printf '%s\n' 'Telegram link checker could not produce a report; see the step log.' >> "$GITHUB_STEP_SUMMARY"
+        fi
+        printf 'Telegram link checker reports: %s\n' "$report_dir"
+        exit "$result"

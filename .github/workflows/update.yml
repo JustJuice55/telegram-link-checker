@@ -1,0 +1,35 @@
+name: Refresh public directory
+on:
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: public-directory-refresh
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1, verified official commit
+      - name: Verify updater before fetching
+        run: |
+          python3 -m unittest discover -s tests -v
+          python3 -m compileall -q telegram_link_checker.py scripts tests
+      - name: Refresh three fixed public cohorts
+        run: timeout 5m python3 scripts/update_directory.py
+      - name: Commit only generated directory files
+        run: |
+          set -euo pipefail
+          git add -- README.md data/communities.json reports/directory-checks.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git -c core.hooksPath=/dev/null commit -m 'Refresh public Telegram directory'
+          git push

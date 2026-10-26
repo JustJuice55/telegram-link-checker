@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-26T07:35:17Z",
+  "results": [
+    {
+      "status": "community_preview",
+      "title": "Telegram News",
+      "members_count": 9242484,
+      "evidence": "tgme_page_extra contains: 9 242 484 subscribers",
+      "http_status": 200,
+      "url": "https://t.me/telegram",
+      "checked_at": "2026-10-26T07:35:12Z"
+    },
+    {
+      "status": "bot_preview",
+      "title": "BotFather",
+      "members_count": null,
+      "evidence": "Start Bot action observed in the Telegram preview.",
+      "http_status": 200,
+      "url": "https://t.me/botfather",
+      "checked_at": "2026-10-26T07:35:13Z"
+    },
+    {
+      "status": "contact_only",
+      "title": "Telegram: Contact @juliarderity",
+      "members_count": null,
+      "evidence": "Generic Telegram contact prompt observed; community membership evidence absent.",
+      "http_status": 200,
+      "url": "https://t.me/juliarderity",
+      "checked_at": "2026-10-26T07:35:14Z"
+    },
+    {
+      "status": "contact_only",
+      "title": "Telegram: Contact @code_news",
+      "members_count": null,
+      "evidence": "Generic Telegram contact prompt observed; community membership evidence absent.",
+      "http_status": 200,
+      "url": "https://t.me/code_news",
+      "checked_at": "2026-10-26T07:35:15Z"
+    },
+    {
+      "status": "contact_only",
+      "title": "Telegram: Contact @prodlang",
+      "members_count": null,
+      "evidence": "Generic Telegram contact prompt observed; community membership evidence absent.",
+      "http_status": 200,
+      "url": "https://t.me/prodlang",
+      "checked_at": "2026-10-26T07:35:16Z"
+    },
+    {
+      "status": "contact_only",
+      "title": "Telegram: Contact @manjabuntu",
+      "members_count": null,
+      "evidence": "Generic Telegram contact prompt observed; community membership evidence absent.",
+      "http_status": 200,
+      "url": "https://t.me/manjabuntu",
+      "checked_at": "2026-10-26T07:35:17Z"
+    }
+  ]
+}
