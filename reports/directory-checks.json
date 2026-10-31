@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "update_status": "complete",
-  "checked_at": "2026-10-30T11:23:41Z",
+  "checked_at": "2026-10-31T10:55:32Z",
   "sources": [
     "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
     "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
@@ -14,137 +14,137 @@
     {
       "status": "community_preview",
       "title": "РАБОТА ВАХТА МОСКВА СПБ",
-      "members_count": 548524,
-      "evidence": "tgme_page_extra contains: 548 524 members",
+      "members_count": 543886,
+      "evidence": "tgme_page_extra contains: 543 886 members",
       "http_status": 200,
       "url": "https://t.me/vakansiit",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "РАБОТА | ВАКАНСИИ",
-      "members_count": 354525,
-      "evidence": "tgme_page_extra contains: 354 525 members",
+      "members_count": 331222,
+      "evidence": "tgme_page_extra contains: 331 222 members",
       "http_status": 200,
       "url": "https://t.me/moskva_vakhta_udalennaya_rf",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
+    },
+    {
+      "status": "community_preview",
+      "title": "Мари про вакансии — инфобизнес",
+      "members_count": 190511,
+      "evidence": "tgme_page_extra contains: 190 511 members",
+      "http_status": 200,
+      "url": "https://t.me/mari_vakansii",
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "Работа Вакансии ВАХТОЙ",
-      "members_count": 132155,
-      "evidence": "tgme_page_extra contains: 132 155 members",
+      "members_count": 132112,
+      "evidence": "tgme_page_extra contains: 132 112 members",
       "http_status": 200,
       "url": "https://t.me/vakhta_rossia_rf",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
+    },
+    {
+      "status": "community_preview",
+      "title": "ВНИМАНИЕ РАБОТА N1",
+      "members_count": 92675,
+      "evidence": "tgme_page_extra contains: 92 675 members",
+      "http_status": 200,
+      "url": "https://t.me/vnimanie_rabota_n1",
+      "checked_at": "2026-10-31T10:55:32Z"
+    },
+    {
+      "status": "community_preview",
+      "title": "РАБОТА В ТАТАРСТАНЕ",
+      "members_count": 85115,
+      "evidence": "tgme_page_extra contains: 85 115 members",
+      "http_status": 200,
+      "url": "https://t.me/kazanrabota_116",
+      "checked_at": "2026-10-31T10:55:32Z"
+    },
+    {
+      "status": "community_preview",
+      "title": "MASKVA ISHLAR KVARTIRA",
+      "members_count": 68503,
+      "evidence": "tgme_page_extra contains: 68 503 members",
+      "http_status": 200,
+      "url": "https://t.me/maskva_tanishuvf",
+      "checked_at": "2026-10-31T10:55:32Z"
+    },
+    {
+      "status": "community_preview",
+      "title": "Чат⛑️*SMSK*🏗️Работа🌐Москва",
+      "members_count": 55490,
+      "evidence": "tgme_page_extra contains: 55 490 members",
+      "http_status": 200,
+      "url": "https://t.me/smsk2020",
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "ФРИЛАНС ЧАТ | ФРИЛАНС БИРЖА",
-      "members_count": 55405,
-      "evidence": "tgme_page_extra contains: 55 405 members",
+      "members_count": 55417,
+      "evidence": "tgme_page_extra contains: 55 417 members",
       "http_status": 200,
       "url": "https://t.me/frilancru",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
+    },
+    {
+      "status": "community_preview",
+      "title": "Работа Татарстан №1🟢 Казань Челны Нижнекамск Елабуга Альметьевск Бугульма",
+      "members_count": 52025,
+      "evidence": "tgme_page_extra contains: 52 025 members",
+      "http_status": 200,
+      "url": "https://t.me/tatarstanrabota",
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "Работа в строительстве Москва и область , объявления!.",
-      "members_count": 47508,
-      "evidence": "tgme_page_extra contains: 47 508 members",
+      "members_count": 47545,
+      "evidence": "tgme_page_extra contains: 47 545 members",
       "http_status": 200,
       "url": "https://t.me/working2021st",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "Я творю на фрилансе",
-      "members_count": 45681,
-      "evidence": "tgme_page_extra contains: 45 681 members",
+      "members_count": 45653,
+      "evidence": "tgme_page_extra contains: 45 653 members",
       "http_status": 200,
       "url": "https://t.me/rueventjob4at",
-      "checked_at": "2026-10-30T11:23:41Z"
-    },
-    {
-      "status": "community_preview",
-      "title": "JOBOSPHERE | ФРИЛАНС ЧАТ",
-      "members_count": 50521,
-      "evidence": "tgme_page_extra contains: 50 521 members",
-      "http_status": 200,
-      "url": "https://t.me/jobospherechat",
-      "checked_at": "2026-10-30T11:23:41Z"
-    },
-    {
-      "status": "community_preview",
-      "title": "WORK ON | ФРИЛАНС ЧАТ",
-      "members_count": 39017,
-      "evidence": "tgme_page_extra contains: 39 017 members",
-      "http_status": 200,
-      "url": "https://t.me/workk_onchat",
-      "checked_at": "2026-10-30T11:23:41Z"
-    },
-    {
-      "status": "community_preview",
-      "title": "БИЗНЕС | КЛИЕНТЫ | РАБОТА",
-      "members_count": 41210,
-      "evidence": "tgme_page_extra contains: 41 210 members",
-      "http_status": 200,
-      "url": "https://t.me/biznes_klient_rabota",
-      "checked_at": "2026-10-30T11:23:41Z"
-    },
-    {
-      "status": "community_preview",
-      "title": "WORKI | Работа в общепите",
-      "members_count": 45757,
-      "evidence": "tgme_page_extra contains: 45 757 members",
-      "http_status": 200,
-      "url": "https://t.me/workirestaurants",
-      "checked_at": "2026-10-30T11:23:41Z"
-    },
-    {
-      "status": "community_preview",
-      "title": "📣Вакансии ВАХТОЙ",
-      "members_count": 33288,
-      "evidence": "tgme_page_extra contains: 33 288 members",
-      "http_status": 200,
-      "url": "https://t.me/rabotat_rf_vakhta_vakhtoviki",
-      "checked_at": "2026-10-30T11:23:41Z"
-    },
-    {
-      "status": "community_preview",
-      "title": "Фриланс чат | Вакансии",
-      "members_count": 32286,
-      "evidence": "tgme_page_extra contains: 32 286 members",
-      "http_status": 200,
-      "url": "https://t.me/freelance_chatik0",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "Turkiyada ishlar 🇺🇿🇹🇷",
-      "members_count": 58410,
-      "evidence": "tgme_page_extra contains: 58 410 members",
+      "members_count": 58337,
+      "evidence": "tgme_page_extra contains: 58 337 members",
       "http_status": 200,
       "url": "https://t.me/turkiyada_vakansiya",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "Turkiyada Ishlar | O'zbeklar uchun",
-      "members_count": 21310,
-      "evidence": "tgme_page_extra contains: 21 310 members",
+      "members_count": 21295,
+      "evidence": "tgme_page_extra contains: 21 295 members",
       "http_status": 200,
       "url": "https://t.me/turkiyau",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "TURKIYA_ISHONCHLI_ISH Истанбул иш Вакансии в Турции",
-      "members_count": 2838,
-      "evidence": "tgme_page_extra contains: 2 838 members",
+      "members_count": 2831,
+      "evidence": "tgme_page_extra contains: 2 831 members",
       "http_status": 200,
       "url": "https://t.me/istanbul_ish_ishonchli",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
@@ -153,115 +153,124 @@
       "evidence": "tgme_page_extra contains: 1 207 members",
       "http_status": 200,
       "url": "https://t.me/rabota_v_tursii",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "Анталья Все виды виз и внж Работа Переводы",
-      "members_count": 517,
-      "evidence": "tgme_page_extra contains: 517 members",
+      "members_count": 518,
+      "evidence": "tgme_page_extra contains: 518 members",
       "http_status": 200,
       "url": "https://t.me/turkiyejobs07100",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
-      "title": "🇹🇷🇺🇿Turkiya ish elonlari/ish bor🇰🇬🇹🇲",
-      "members_count": 2258,
-      "evidence": "tgme_page_extra contains: 2 258 members",
+      "title": "🇹🇷🇺🇿_Turkiya ish Va Kvartıra elonlari_🇰🇬🇹🇲",
+      "members_count": 2555,
+      "evidence": "tgme_page_extra contains: 2 555 members",
       "http_status": 200,
       "url": "https://t.me/ishborturkiya",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "Работа в Турции",
-      "members_count": 6621,
-      "evidence": "tgme_page_extra contains: 6 621 members",
+      "members_count": 6637,
+      "evidence": "tgme_page_extra contains: 6 637 members",
       "http_status": 200,
       "url": "https://t.me/rabota_inturkey",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "Работа в Турции",
-      "members_count": 5110,
-      "evidence": "tgme_page_extra contains: 5 110 members",
+      "members_count": 5100,
+      "evidence": "tgme_page_extra contains: 5 100 members",
       "http_status": 200,
       "url": "https://t.me/job_in_tr",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "ТУРЦИЯ РАБОТА: ВАКАНСИИ И РЕЗЮМЕ",
-      "members_count": 5602,
-      "evidence": "tgme_page_extra contains: 5 602 members",
+      "members_count": 5598,
+      "evidence": "tgme_page_extra contains: 5 598 members",
       "http_status": 200,
       "url": "https://t.me/turkworks",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "Турция работа Стамбул Анталья Аланья Фетхие Кемер Мармарис",
-      "members_count": 3342,
-      "evidence": "tgme_page_extra contains: 3 342 members",
+      "members_count": 3339,
+      "evidence": "tgme_page_extra contains: 3 339 members",
       "http_status": 200,
       "url": "https://t.me/tyrciya_rabota",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "𝗧𝗨𝗥𝗞𝗜𝗬𝗔 𝗜𝗦𝗛 𝗘𝗟𝗢𝗡𝗟𝗔𝗥𝗜 𝗧𝗥",
-      "members_count": 3518,
-      "evidence": "tgme_page_extra contains: 3 518 members",
+      "members_count": 3517,
+      "evidence": "tgme_page_extra contains: 3 517 members",
       "http_status": 200,
       "url": "https://t.me/turkiya_ish_elonlari_tr",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "𝗧𝗨𝗥𝗞𝗜𝗬𝗔𝗗𝗔 𝗜𝗦𝗛",
-      "members_count": 2793,
-      "evidence": "tgme_page_extra contains: 2 793 members",
+      "members_count": 2789,
+      "evidence": "tgme_page_extra contains: 2 789 members",
       "http_status": 200,
       "url": "https://t.me/sansantaly20",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "INGLIZ QUIZ",
-      "members_count": 23149,
-      "evidence": "tgme_page_extra contains: 23 149 members",
+      "members_count": 23106,
+      "evidence": "tgme_page_extra contains: 23 106 members",
       "http_status": 200,
       "url": "https://t.me/ingliz_testi",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "INGLIS QUIZ TEST 🇺🇸",
-      "members_count": 19221,
-      "evidence": "tgme_page_extra contains: 19 221 members",
+      "members_count": 18244,
+      "evidence": "tgme_page_extra contains: 18 244 members",
       "http_status": 200,
       "url": "https://t.me/ingliz_tili6",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "Ingiliz tilidan | Testlar",
-      "members_count": 45573,
-      "evidence": "tgme_page_extra contains: 45 573 members",
+      "members_count": 44534,
+      "evidence": "tgme_page_extra contains: 44 534 members",
       "http_status": 200,
       "url": "https://t.me/ingliztestlarr",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "INGLIZ TILIDAN QUIZ",
-      "members_count": 26365,
-      "evidence": "tgme_page_extra contains: 26 365 members",
+      "members_count": 26299,
+      "evidence": "tgme_page_extra contains: 26 299 members",
       "http_status": 200,
       "url": "https://t.me/ingliz_tilidan_quiz",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
+    },
+    {
+      "status": "community_preview",
+      "title": "ЭЛИТНАЯ ШКОЛА.РУССКИЙ ЯЗЫК + HD TV",
+      "members_count": 22116,
+      "evidence": "tgme_page_extra contains: 22 116 members",
+      "http_status": 200,
+      "url": "https://t.me/e_maktab_rus_tili",
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "contact_only",
@@ -270,52 +279,52 @@
       "evidence": "Generic Telegram contact prompt observed; community membership evidence absent.",
       "http_status": 200,
       "url": "https://t.me/ingliztilidantestlar3",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "🟡 Ассоциация Репетиторов.uz",
-      "members_count": 13021,
-      "evidence": "tgme_page_extra contains: 13 021 members",
+      "members_count": 13003,
+      "evidence": "tgme_page_extra contains: 13 003 members",
       "http_status": 200,
       "url": "https://t.me/repetitori_uroki_studenti",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "English zone quiz🎖",
-      "members_count": 2410,
-      "evidence": "tgme_page_extra contains: 2 410 members",
+      "members_count": 2409,
+      "evidence": "tgme_page_extra contains: 2 409 members",
       "http_status": 200,
       "url": "https://t.me/english_zone_quiz",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "QUIZ TESTLAR GURUHI",
-      "members_count": 1126,
-      "evidence": "tgme_page_extra contains: 1 126 members",
+      "members_count": 1119,
+      "evidence": "tgme_page_extra contains: 1 119 members",
       "http_status": 200,
       "url": "https://t.me/quiz_testlar_guruhi_n1",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "Русский язык( ТРКИ-C1,B2,B1)",
-      "members_count": 757,
-      "evidence": "tgme_page_extra contains: 757 members",
+      "members_count": 755,
+      "evidence": "tgme_page_extra contains: 755 members",
       "http_status": 200,
       "url": "https://t.me/rustilic1_c2_b1_b2_test",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "community_preview",
       "title": "Ibratli Study | Maths",
-      "members_count": 499,
-      "evidence": "tgme_page_extra contains: 499 members",
+      "members_count": 496,
+      "evidence": "tgme_page_extra contains: 496 members",
       "http_status": 200,
       "url": "https://t.me/ibratli_study_maths",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     },
     {
       "status": "contact_only",
@@ -324,16 +333,7 @@
       "evidence": "Generic Telegram contact prompt observed; community membership evidence absent.",
       "http_status": 200,
       "url": "https://t.me/ingilis_ingliz",
-      "checked_at": "2026-10-30T11:23:41Z"
-    },
-    {
-      "status": "community_preview",
-      "title": "𝐐𝐀𝐋𝐁𝐈𝐘 ~قلبي❤️",
-      "members_count": 6173,
-      "evidence": "tgme_page_extra contains: 6 173 subscribers",
-      "http_status": 200,
-      "url": "https://t.me/ingliztilidantestlar",
-      "checked_at": "2026-10-30T11:23:41Z"
+      "checked_at": "2026-10-31T10:55:32Z"
     }
   ]
 }
