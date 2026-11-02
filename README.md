@@ -16,7 +16,7 @@ The first release covers jobs in Russia and Turkey, and education in Uzbekistan.
 
 ### Public community preview directory
 
-Checked: **2026-11-01T11:49:45Z** (UTC). 34 listed communities from 36 distinct candidates.
+Checked: **2026-11-02T13:29:21Z** (UTC). 34 listed communities from 36 distinct candidates.
 Checks: community_preview=34, contact_only=2, bot_preview=0, inconclusive=0.
 
 Only previews with member/subscriber evidence are listed. A fresh public preview is not an endorsement or verification of activity, safety, or geography.
@@ -26,50 +26,50 @@ Country and topic labels are TGDen's existing source filters. Counts below come 
 
 | Community | Preview count | Public links |
 | --- | ---: | --- |
-| РАБОТА ВАХТА МОСКВА СПБ | 541,559 | [@vakansiit](https://t.me/vakansiit) · [TGDen card](https://tgden.com/en/chat/vakansiit?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| РАБОТА \| ВАКАНСИИ | 321,342 | [@moskva_vakhta_udalennaya_rf](https://t.me/moskva_vakhta_udalennaya_rf) · [TGDen card](https://tgden.com/en/chat/moskva_vakhta_udalennaya_rf?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Мари про вакансии — инфобизнес | 190,498 | [@mari_vakansii](https://t.me/mari_vakansii) · [TGDen card](https://tgden.com/en/chat/mari_vakansii?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Работа Вакансии ВАХТОЙ | 132,013 | [@vakhta_rossia_rf](https://t.me/vakhta_rossia_rf) · [TGDen card](https://tgden.com/en/chat/vakhta_rossia_rf?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| ВНИМАНИЕ РАБОТА N1 | 92,638 | [@vnimanie_rabota_n1](https://t.me/vnimanie_rabota_n1) · [TGDen card](https://tgden.com/en/chat/vnimanie_rabota_n1?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| РАБОТА В ТАТАРСТАНЕ | 85,096 | [@kazanrabota_116](https://t.me/kazanrabota_116) · [TGDen card](https://tgden.com/en/chat/kazanrabota_116?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| MASKVA ISHLAR KVARTIRA | 67,968 | [@maskva_tanishuvf](https://t.me/maskva_tanishuvf) · [TGDen card](https://tgden.com/en/chat/maskva_tanishuvf?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Чат⛑️\*SMSK\*🏗️Работа🌐Москва | 55,523 | [@smsk2020](https://t.me/smsk2020) · [TGDen card](https://tgden.com/en/chat/smsk2020?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| ФРИЛАНС ЧАТ \| ФРИЛАНС БИРЖА | 55,440 | [@frilancru](https://t.me/frilancru) · [TGDen card](https://tgden.com/en/chat/frilancru?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Работа Татарстан №1🟢 Казань Челны Нижнекамск Елабуга Альметьевск Бугульма | 52,000 | [@tatarstanrabota](https://t.me/tatarstanrabota) · [TGDen card](https://tgden.com/en/chat/tatarstanrabota?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Работа в строительстве Москва и область , объявления\!\. | 47,575 | [@working2021st](https://t.me/working2021st) · [TGDen card](https://tgden.com/en/chat/working2021st?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Я творю на фрилансе | 45,642 | [@rueventjob4at](https://t.me/rueventjob4at) · [TGDen card](https://tgden.com/en/chat/rueventjob4at?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| РАБОТА ВАХТА МОСКВА СПБ | 537,085 | [@vakansiit](https://t.me/vakansiit) · [TGDen card](https://tgden.com/en/chat/vakansiit?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| РАБОТА \| ВАКАНСИИ | 436,553 | [@moskva_vakhta_udalennaya_rf](https://t.me/moskva_vakhta_udalennaya_rf) · [TGDen card](https://tgden.com/en/chat/moskva_vakhta_udalennaya_rf?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Мари про вакансии — инфобизнес | 190,490 | [@mari_vakansii](https://t.me/mari_vakansii) · [TGDen card](https://tgden.com/en/chat/mari_vakansii?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Работа Вакансии ВАХТОЙ | 174,052 | [@vakhta_rossia_rf](https://t.me/vakhta_rossia_rf) · [TGDen card](https://tgden.com/en/chat/vakhta_rossia_rf?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| ВНИМАНИЕ РАБОТА N1 | 92,643 | [@vnimanie_rabota_n1](https://t.me/vnimanie_rabota_n1) · [TGDen card](https://tgden.com/en/chat/vnimanie_rabota_n1?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| РАБОТА В ТАТАРСТАНЕ | 85,061 | [@kazanrabota_116](https://t.me/kazanrabota_116) · [TGDen card](https://tgden.com/en/chat/kazanrabota_116?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| MASKVA ISHLAR KVARTIRA | 67,672 | [@maskva_tanishuvf](https://t.me/maskva_tanishuvf) · [TGDen card](https://tgden.com/en/chat/maskva_tanishuvf?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Чат⛑️\*SMSK\*🏗️Работа🌐Москва | 55,608 | [@smsk2020](https://t.me/smsk2020) · [TGDen card](https://tgden.com/en/chat/smsk2020?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| ФРИЛАНС ЧАТ \| ФРИЛАНС БИРЖА | 55,447 | [@frilancru](https://t.me/frilancru) · [TGDen card](https://tgden.com/en/chat/frilancru?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Екатеринбург работа, подработка екб, клининг | 52,687 | [@podrabotkaek](https://t.me/podrabotkaek) · [TGDen card](https://tgden.com/en/chat/podrabotkaek?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Работа Татарстан №1🟢 Казань Челны Нижнекамск Елабуга Альметьевск Бугульма | 51,984 | [@tatarstanrabota](https://t.me/tatarstanrabota) · [TGDen card](https://tgden.com/en/chat/tatarstanrabota?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Работа в строительстве Москва и область , объявления\!\. | 47,644 | [@working2021st](https://t.me/working2021st) · [TGDen card](https://tgden.com/en/chat/working2021st?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 
 #### Turkey · Jobs (12)
 
 | Community | Preview count | Public links |
 | --- | ---: | --- |
-| Turkiyada ishlar 🇺🇿🇹🇷 | 58,241 | [@turkiyada_vakansiya](https://t.me/turkiyada_vakansiya) · [TGDen card](https://tgden.com/en/chat/turkiyada_vakansiya?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Turkiyada Ishlar \| O&\#x27;zbeklar uchun | 21,270 | [@turkiyau](https://t.me/turkiyau) · [TGDen card](https://tgden.com/en/chat/turkiyau?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| TURKIYA\_ISHONCHLI\_ISH Истанбул иш Вакансии в Турции | 2,827 | [@istanbul_ish_ishonchli](https://t.me/istanbul_ish_ishonchli) · [TGDen card](https://tgden.com/en/chat/istanbul_ish_ishonchli?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Turkiyada ishlar 🇺🇿🇹🇷 | 58,138 | [@turkiyada_vakansiya](https://t.me/turkiyada_vakansiya) · [TGDen card](https://tgden.com/en/chat/turkiyada_vakansiya?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Turkiyada Ishlar \| O&\#x27;zbeklar uchun | 21,246 | [@turkiyau](https://t.me/turkiyau) · [TGDen card](https://tgden.com/en/chat/turkiyau?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| TURKIYA\_ISHONCHLI\_ISH Истанбул иш Вакансии в Турции | 2,821 | [@istanbul_ish_ishonchli](https://t.me/istanbul_ish_ishonchli) · [TGDen card](https://tgden.com/en/chat/istanbul_ish_ishonchli?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 | Работа в Турции | 1,207 | [@rabota_v_tursii](https://t.me/rabota_v_tursii) · [TGDen card](https://tgden.com/en/chat/rabota_v_tursii?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Анталья Все виды виз и внж Работа Переводы | 519 | [@turkiyejobs07100](https://t.me/turkiyejobs07100) · [TGDen card](https://tgden.com/en/chat/turkiyejobs07100?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| 🇹🇷🇺🇿Turkiya ish elonlari/ish bor🇰🇬🇹🇲 | 2,621 | [@ishborturkiya](https://t.me/ishborturkiya) · [TGDen card](https://tgden.com/en/chat/ishborturkiya?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Работа в Турции | 6,624 | [@rabota_inturkey](https://t.me/rabota_inturkey) · [TGDen card](https://tgden.com/en/chat/rabota_inturkey?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Работа в Турции | 5,096 | [@job_in_tr](https://t.me/job_in_tr) · [TGDen card](https://tgden.com/en/chat/job_in_tr?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| ТУРЦИЯ РАБОТА: ВАКАНСИИ И РЕЗЮМЕ | 5,594 | [@turkworks](https://t.me/turkworks) · [TGDen card](https://tgden.com/en/chat/turkworks?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Анталья работа вакансии | 3,817 | [@antaliya_rabota](https://t.me/antaliya_rabota) · [TGDen card](https://tgden.com/en/chat/antaliya_rabota?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Турция работа Стамбул Анталья Аланья Фетхие Кемер Мармарис | 3,334 | [@tyrciya_rabota](https://t.me/tyrciya_rabota) · [TGDen card](https://tgden.com/en/chat/tyrciya_rabota?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| 𝗧𝗨𝗥𝗞𝗜𝗬𝗔 𝗜𝗦𝗛 𝗘𝗟𝗢𝗡𝗟𝗔𝗥𝗜 𝗧𝗥 | 3,508 | [@turkiya_ish_elonlari_tr](https://t.me/turkiya_ish_elonlari_tr) · [TGDen card](https://tgden.com/en/chat/turkiya_ish_elonlari_tr?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Анталья Все виды виз и внж Работа Переводы | 520 | [@turkiyejobs07100](https://t.me/turkiyejobs07100) · [TGDen card](https://tgden.com/en/chat/turkiyejobs07100?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| 🇹🇷🇺🇿Turkiya ish elonlari/ish bor🇰🇬🇹🇲 | 2,711 | [@ishborturkiya](https://t.me/ishborturkiya) · [TGDen card](https://tgden.com/en/chat/ishborturkiya?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Работа в Турции | 6,616 | [@rabota_inturkey](https://t.me/rabota_inturkey) · [TGDen card](https://tgden.com/en/chat/rabota_inturkey?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Работа в Турции | 5,090 | [@job_in_tr](https://t.me/job_in_tr) · [TGDen card](https://tgden.com/en/chat/job_in_tr?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| ТУРЦИЯ РАБОТА: ВАКАНСИИ И РЕЗЮМЕ | 5,589 | [@turkworks](https://t.me/turkworks) · [TGDen card](https://tgden.com/en/chat/turkworks?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Услуги Работа Фетхие | 4,599 | [@rabota_fethie](https://t.me/rabota_fethie) · [TGDen card](https://tgden.com/en/chat/rabota_fethie?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Анталья работа вакансии | 3,814 | [@antaliya_rabota](https://t.me/antaliya_rabota) · [TGDen card](https://tgden.com/en/chat/antaliya_rabota?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Турция работа Стамбул Анталья Аланья Фетхие Кемер Мармарис | 3,333 | [@tyrciya_rabota](https://t.me/tyrciya_rabota) · [TGDen card](https://tgden.com/en/chat/tyrciya_rabota?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 
 #### Uzbekistan · Education (10)
 
 | Community | Preview count | Public links |
 | --- | ---: | --- |
-| INGLIZ QUIZ | 23,043 | [@ingliz_testi](https://t.me/ingliz_testi) · [TGDen card](https://tgden.com/en/chat/ingliz_testi?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Ingliz quiz testlar🇺🇿 | 18,052 | [@ingliz_tili6](https://t.me/ingliz_tili6) · [TGDen card](https://tgden.com/en/chat/ingliz_tili6?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Ingiliz tilidan \| Quiz testlar📘 | 43,892 | [@ingliztestlarr](https://t.me/ingliztestlarr) · [TGDen card](https://tgden.com/en/chat/ingliztestlarr?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| INGLIZ TILIDAN QUIZ | 26,220 | [@ingliz_tilidan_quiz](https://t.me/ingliz_tilidan_quiz) · [TGDen card](https://tgden.com/en/chat/ingliz_tilidan_quiz?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| ЭЛИТНАЯ ШКОЛА\.РУССКИЙ ЯЗЫК \+ HD TV | 22,090 | [@e_maktab_rus_tili](https://t.me/e_maktab_rus_tili) · [TGDen card](https://tgden.com/en/chat/e_maktab_rus_tili?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| 🟡 Ассоциация Репетиторов\.uz | 13,005 | [@repetitori_uroki_studenti](https://t.me/repetitori_uroki_studenti) · [TGDen card](https://tgden.com/en/chat/repetitori_uroki_studenti?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| English zone quiz🎖 | 2,407 | [@english_zone_quiz](https://t.me/english_zone_quiz) · [TGDen card](https://tgden.com/en/chat/english_zone_quiz?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| QUIZ TESTLAR GURUHI | 1,117 | [@quiz_testlar_guruhi_n1](https://t.me/quiz_testlar_guruhi_n1) · [TGDen card](https://tgden.com/en/chat/quiz_testlar_guruhi_n1?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Русский язык\( ТРКИ\-C1,B2,B1\) | 756 | [@rustilic1_c2_b1_b2_test](https://t.me/rustilic1_c2_b1_b2_test) · [TGDen card](https://tgden.com/en/chat/rustilic1_c2_b1_b2_test?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
-| Ibratli Study \| Maths | 494 | [@ibratli_study_maths](https://t.me/ibratli_study_maths) · [TGDen card](https://tgden.com/en/chat/ibratli_study_maths?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| INGLIZ QUIZ | 22,999 | [@ingliz_testi](https://t.me/ingliz_testi) · [TGDen card](https://tgden.com/en/chat/ingliz_testi?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Ingliz quiz testlar🇺🇿 | 17,891 | [@ingliz_tili6](https://t.me/ingliz_tili6) · [TGDen card](https://tgden.com/en/chat/ingliz_tili6?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Ingiliz tilidan \| Quiz testlar📘 | 43,553 | [@ingliztestlarr](https://t.me/ingliztestlarr) · [TGDen card](https://tgden.com/en/chat/ingliztestlarr?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| INGLIZ TILIDAN QUIZ | 26,134 | [@ingliz_tilidan_quiz](https://t.me/ingliz_tilidan_quiz) · [TGDen card](https://tgden.com/en/chat/ingliz_tilidan_quiz?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| ЭЛИТНАЯ ШКОЛА\.РУССКИЙ ЯЗЫК \+ HD TV | 22,089 | [@e_maktab_rus_tili](https://t.me/e_maktab_rus_tili) · [TGDen card](https://tgden.com/en/chat/e_maktab_rus_tili?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| 🟡 Ассоциация Репетиторов\.uz | 12,992 | [@repetitori_uroki_studenti](https://t.me/repetitori_uroki_studenti) · [TGDen card](https://tgden.com/en/chat/repetitori_uroki_studenti?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| English zone quiz🎖 | 2,404 | [@english_zone_quiz](https://t.me/english_zone_quiz) · [TGDen card](https://tgden.com/en/chat/english_zone_quiz?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| QUIZ TESTLAR GURUHI | 1,111 | [@quiz_testlar_guruhi_n1](https://t.me/quiz_testlar_guruhi_n1) · [TGDen card](https://tgden.com/en/chat/quiz_testlar_guruhi_n1?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Русский язык\( ТРКИ\-C1,B2,B1\) | 753 | [@rustilic1_c2_b1_b2_test](https://t.me/rustilic1_c2_b1_b2_test) · [TGDen card](https://tgden.com/en/chat/rustilic1_c2_b1_b2_test?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
+| Ibratli Study \| Maths | 488 | [@ibratli_study_maths](https://t.me/ibratli_study_maths) · [TGDen card](https://tgden.com/en/chat/ibratli_study_maths?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map) |
 
 Source: the [TGDen public API](https://tgden.com/api/v1/chats), three cohorts of at most 12 candidates; see [JSON data](data/communities.json) and [check audit](reports/directory-checks.json).
 
