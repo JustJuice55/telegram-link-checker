@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-08T11:55:50Z",
+  "checked_at": "2026-11-09T13:54:00Z",
   "sources": [
     "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
     "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
@@ -25,378 +25,378 @@
   ],
   "communities": [
     {
-      "username": "moskva_vakhta_udalennaya_rf",
-      "title": "РАБОТА | ВАКАНСИИ",
-      "members_count": 496888,
-      "country": "ru",
-      "topic": "jobs",
-      "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
-      "telegram_url": "https://t.me/moskva_vakhta_udalennaya_rf",
-      "tgden_url": "https://tgden.com/en/chat/moskva_vakhta_udalennaya_rf?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
-    },
-    {
       "username": "vakansiit",
       "title": "РАБОТА ВАХТА МОСКВА СПБ",
-      "members_count": 493052,
+      "members_count": 492864,
       "country": "ru",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/vakansiit",
       "tgden_url": "https://tgden.com/en/chat/vakansiit?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
+    },
+    {
+      "username": "moskva_vakhta_udalennaya_rf",
+      "title": "РАБОТА | ВАКАНСИИ",
+      "members_count": 418460,
+      "country": "ru",
+      "topic": "jobs",
+      "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
+      "telegram_url": "https://t.me/moskva_vakhta_udalennaya_rf",
+      "tgden_url": "https://tgden.com/en/chat/moskva_vakhta_udalennaya_rf?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "maskvadagi_tayanch",
       "title": "Внимание Работа Москва",
-      "members_count": 277159,
+      "members_count": 277128,
       "country": "ru",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/maskvadagi_tayanch",
       "tgden_url": "https://tgden.com/en/chat/maskvadagi_tayanch?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "mari_vakansii",
       "title": "Мари про вакансии — инфобизнес",
-      "members_count": 190498,
+      "members_count": 190483,
       "country": "ru",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/mari_vakansii",
       "tgden_url": "https://tgden.com/en/chat/mari_vakansii?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "vakhta_rossia_rf",
       "title": "Работа Вакансии ВАХТОЙ",
-      "members_count": 173918,
+      "members_count": 147520,
       "country": "ru",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/vakhta_rossia_rf",
       "tgden_url": "https://tgden.com/en/chat/vakhta_rossia_rf?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "vnimanie_rabota_n1",
       "title": "ВНИМАНИЕ РАБОТА N1",
-      "members_count": 92621,
+      "members_count": 92617,
       "country": "ru",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/vnimanie_rabota_n1",
       "tgden_url": "https://tgden.com/en/chat/vnimanie_rabota_n1?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "kazanrabota_116",
       "title": "РАБОТА В ТАТАРСТАНЕ",
-      "members_count": 84846,
+      "members_count": 84810,
       "country": "ru",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/kazanrabota_116",
       "tgden_url": "https://tgden.com/en/chat/kazanrabota_116?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "maskva_tanishuvf",
       "title": "MASKVA ISHLAR KVARTIRA",
-      "members_count": 63956,
+      "members_count": 63258,
       "country": "ru",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/maskva_tanishuvf",
       "tgden_url": "https://tgden.com/en/chat/maskva_tanishuvf?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "maskva_ish_elonlar1",
       "title": "MOSKVA ISH GURUPPASI👷‍♂️",
-      "members_count": 110218,
+      "members_count": 108933,
       "country": "ru",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/maskva_ish_elonlar1",
       "tgden_url": "https://tgden.com/en/chat/maskva_ish_elonlar1?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "smsk2020",
       "title": "Чат⛑️*SMSK*🏗️Работа🌐Москва",
-      "members_count": 56403,
+      "members_count": 56430,
       "country": "ru",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/smsk2020",
       "tgden_url": "https://tgden.com/en/chat/smsk2020?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "frilancru",
       "title": "ФРИЛАНС ЧАТ | ФРИЛАНС БИРЖА",
-      "members_count": 55742,
+      "members_count": 55758,
       "country": "ru",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/frilancru",
       "tgden_url": "https://tgden.com/en/chat/frilancru?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "moskva1717",
       "title": "ТОЛЬКО РОБОТА И ПОДРАБОТКА МОСКВА",
-      "members_count": 54641,
+      "members_count": 54629,
       "country": "ru",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=ru&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/moskva1717",
       "tgden_url": "https://tgden.com/en/chat/moskva1717?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "turkiyada_vakansiya",
       "title": "Turkiyada ishlar 🇺🇿🇹🇷",
-      "members_count": 57810,
+      "members_count": 57715,
       "country": "tr",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/turkiyada_vakansiya",
       "tgden_url": "https://tgden.com/en/chat/turkiyada_vakansiya?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "turkiyau",
       "title": "Turkiyada Ishlar | O'zbeklar uchun",
-      "members_count": 21207,
+      "members_count": 21306,
       "country": "tr",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/turkiyau",
       "tgden_url": "https://tgden.com/en/chat/turkiyau?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
+    },
+    {
+      "username": "turkiyadaa_ishlar",
+      "title": "🇹🇷TURKIYADAGI 🇺🇿ÖZBEKLARGA🇺🇿ISH🤝",
+      "members_count": 9246,
+      "country": "tr",
+      "topic": "jobs",
+      "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
+      "telegram_url": "https://t.me/turkiyadaa_ishlar",
+      "tgden_url": "https://tgden.com/en/chat/turkiyadaa_ishlar?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "istanbul_ish_ishonchli",
       "title": "TURKIYA_ISHONCHLI_ISH Истанбул иш Вакансии в Турции",
-      "members_count": 2812,
+      "members_count": 2816,
       "country": "tr",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/istanbul_ish_ishonchli",
       "tgden_url": "https://tgden.com/en/chat/istanbul_ish_ishonchli?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "rabota_v_tursii",
       "title": "Работа в Турции",
-      "members_count": 1206,
+      "members_count": 1205,
       "country": "tr",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/rabota_v_tursii",
       "tgden_url": "https://tgden.com/en/chat/rabota_v_tursii?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "turkiyejobs07100",
       "title": "Анталья Все виды виз и внж Работа Переводы",
-      "members_count": 516,
+      "members_count": 515,
       "country": "tr",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/turkiyejobs07100",
       "tgden_url": "https://tgden.com/en/chat/turkiyejobs07100?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "ishborturkiya",
       "title": "🇹🇷🇺🇿Turkiya ish elonlari/ish bor🇰🇬🇹🇲",
-      "members_count": 2828,
+      "members_count": 2917,
       "country": "tr",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/ishborturkiya",
       "tgden_url": "https://tgden.com/en/chat/ishborturkiya?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "antalyarabotatut",
       "title": "АНТАЛЬЯ ОБЪЯВЛЕНИЕ (РАБОТА)",
-      "members_count": 7510,
+      "members_count": 7514,
       "country": "tr",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/antalyarabotatut",
       "tgden_url": "https://tgden.com/en/chat/antalyarabotatut?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "stambyl_rabota",
       "title": "Стамбул работа",
-      "members_count": 6928,
+      "members_count": 6933,
       "country": "tr",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/stambyl_rabota",
       "tgden_url": "https://tgden.com/en/chat/stambyl_rabota?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "antalia_work",
       "title": "Анталья | Турция - Работа Вакансии",
-      "members_count": 5980,
+      "members_count": 5982,
       "country": "tr",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/antalia_work",
       "tgden_url": "https://tgden.com/en/chat/antalia_work?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "rabota_inturkey",
       "title": "Работа в Турции",
-      "members_count": 6625,
+      "members_count": 6629,
       "country": "tr",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/rabota_inturkey",
       "tgden_url": "https://tgden.com/en/chat/rabota_inturkey?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "job_in_tr",
       "title": "Работа в Турции",
-      "members_count": 5066,
+      "members_count": 5064,
       "country": "tr",
       "topic": "jobs",
       "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
       "telegram_url": "https://t.me/job_in_tr",
       "tgden_url": "https://tgden.com/en/chat/job_in_tr?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
-    },
-    {
-      "username": "turkworks",
-      "title": "ТУРЦИЯ РАБОТА: ВАКАНСИИ И РЕЗЮМЕ",
-      "members_count": 5578,
-      "country": "tr",
-      "topic": "jobs",
-      "source": "https://tgden.com/api/v1/chats?country=tr&category=jobs&sort=relevance&limit=12",
-      "telegram_url": "https://t.me/turkworks",
-      "tgden_url": "https://tgden.com/en/chat/turkworks?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "ingliz_testi",
       "title": "INGLIZ QUIZ",
-      "members_count": 19813,
+      "members_count": 19069,
       "country": "uz",
       "topic": "education",
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/ingliz_testi",
       "tgden_url": "https://tgden.com/en/chat/ingliz_testi?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "ingliz_tili6",
       "title": "Ingliz quiz testlar🇺🇿",
-      "members_count": 16612,
+      "members_count": 16270,
       "country": "uz",
       "topic": "education",
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/ingliz_tili6",
       "tgden_url": "https://tgden.com/en/chat/ingliz_tili6?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "ingliztestlarr",
       "title": "Ingiliz tilidan | Quiz testlar📘",
-      "members_count": 39629,
+      "members_count": 39165,
       "country": "uz",
       "topic": "education",
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/ingliztestlarr",
       "tgden_url": "https://tgden.com/en/chat/ingliztestlarr?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "ingliz_tilidan_quiz",
       "title": "INGLIZ TILIDAN QUIZ",
-      "members_count": 615,
+      "members_count": 612,
       "country": "uz",
       "topic": "education",
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/ingliz_tilidan_quiz",
       "tgden_url": "https://tgden.com/en/chat/ingliz_tilidan_quiz?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "e_maktab_rus_tili",
       "title": "ЭЛИТНАЯ ШКОЛА.РУССКИЙ ЯЗЫК + HD TV",
-      "members_count": 22131,
+      "members_count": 22163,
       "country": "uz",
       "topic": "education",
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/e_maktab_rus_tili",
       "tgden_url": "https://tgden.com/en/chat/e_maktab_rus_tili?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "repetitori_uroki_studenti",
       "title": "🟡 Ассоциация Репетиторов.uz",
-      "members_count": 12948,
+      "members_count": 12955,
       "country": "uz",
       "topic": "education",
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/repetitori_uroki_studenti",
       "tgden_url": "https://tgden.com/en/chat/repetitori_uroki_studenti?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "english_zone_quiz",
       "title": "English zone quiz🎖",
-      "members_count": 2400,
+      "members_count": 2395,
       "country": "uz",
       "topic": "education",
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/english_zone_quiz",
       "tgden_url": "https://tgden.com/en/chat/english_zone_quiz?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "quiz_testlar_guruhi_n1",
       "title": "QUIZ TESTLAR GURUHI",
-      "members_count": 1145,
+      "members_count": 1139,
       "country": "uz",
       "topic": "education",
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/quiz_testlar_guruhi_n1",
       "tgden_url": "https://tgden.com/en/chat/quiz_testlar_guruhi_n1?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "rustilic1_c2_b1_b2_test",
       "title": "Русский язык( ТРКИ-C1,B2,B1)",
-      "members_count": 761,
+      "members_count": 759,
       "country": "uz",
       "topic": "education",
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/rustilic1_c2_b1_b2_test",
       "tgden_url": "https://tgden.com/en/chat/rustilic1_c2_b1_b2_test?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     },
     {
       "username": "ibratli_study_maths",
       "title": "Ibratli Study | Maths",
-      "members_count": 487,
+      "members_count": 486,
       "country": "uz",
       "topic": "education",
       "source": "https://tgden.com/api/v1/chats?country=uz&category=education&sort=relevance&limit=12",
       "telegram_url": "https://t.me/ibratli_study_maths",
       "tgden_url": "https://tgden.com/en/chat/ibratli_study_maths?utm_source=github&utm_medium=open_data&utm_campaign=telegram_community_map",
-      "checked_at": "2026-11-08T11:55:50Z"
+      "checked_at": "2026-11-09T13:54:00Z"
     }
   ]
 }
